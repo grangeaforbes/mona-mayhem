@@ -18,7 +18,7 @@ Turn two GitHub profiles into a fast, playful “scoreboard” experience. This 
 - **Retro battle vibe**: arcade-inspired UI with playful head-to-head framing
 - **Real GitHub data**: compare actual contribution activity between two users
 - **Copilot-first workflow**: learn planning, prompting, implementation, and review loops
-- **Two learning paths**: choose VS Code or CLI based on how you like to build
+- **Two learning paths**: choose VS Code or GitHub Copilot CLI based on how you like to build
 
 ## 📚 Workshop
 
