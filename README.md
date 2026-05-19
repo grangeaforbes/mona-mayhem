@@ -9,6 +9,18 @@ A workshop template for building a retro arcade-themed website with Astro that c
 ![Mona Mayhem Screenshot](https://github.com/user-attachments/assets/5eca79e2-cb9f-4e93-aa0d-23666ebde3b7)
 *What you'll build by the end of the workshop*
 
+## ⚡ Why Mona Mayhem?
+
+- Learn Copilot workflows by shipping a fun, visual project
+- Build with Astro, server endpoints, and GitHub data
+- Practice planning, implementation, review, and polish loops
+
+## 🔗 Start Here
+
+- **Workshop overview:** [Begin with Part 00](workshop/00-overview.md)
+- **Live workshop site:** [copilot-dev-days.github.io/mona-mayhem](https://copilot-dev-days.github.io/mona-mayhem/)
+- **Prefer another language?** Use the links at the top for Portuguese and Spanish
+
 ## 📚 Workshop
 
 The workshop supports two tracks — follow the one that matches your preferred workflow:
