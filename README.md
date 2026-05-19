@@ -2,12 +2,23 @@
 
 # 🎮 Mona Mayhem
 
-**VS Code & GitHub Copilot CLI Workshop** — Build a GitHub Contribution Battle Arena
+> Build a retro arcade-style GitHub contribution battle arena with Astro + GitHub Copilot.
 
-A workshop template for building a retro arcade-themed website with Astro that compares GitHub contribution graphs of two users. This is the **starting point** — you'll build the app step by step using GitHub Copilot.
+**VS Code & GitHub Copilot CLI Workshop**
+
+Turn two GitHub profiles into a fast, playful “scoreboard” experience. This repository is the **workshop starter** and walks you from scaffold to polished UI with agentic workflows in VS Code or the CLI.
+
+[🚀 Start the workshop](workshop/00-overview.md) · [🧰 Quick start](#-quick-start) · [🛠️ Prerequisites](#prerequisites)
 
 ![Mona Mayhem Screenshot](https://github.com/user-attachments/assets/5eca79e2-cb9f-4e93-aa0d-23666ebde3b7)
 *What you'll build by the end of the workshop*
+
+## ✨ Why this project is fun
+
+- **Retro battle vibe**: arcade-inspired UI with playful head-to-head framing
+- **Real GitHub data**: compare actual contribution activity between two users
+- **Copilot-first workflow**: learn planning, prompting, implementation, and review loops
+- **Two learning paths**: choose VS Code or GitHub Copilot CLI based on how you like to build
 
 ## 📚 Workshop
 
@@ -34,7 +45,11 @@ The workshop supports two tracks — follow the one that matches your preferred 
 2. Choose your workshop path:
    - **VS Code:** clone your repo and open it in VS Code.
    - **GitHub Copilot CLI:** clone your repo locally, install `copilot`, and work from your terminal.
-3. Follow the [workshop guide](workshop/00-overview.md)
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Follow the [workshop guide](workshop/00-overview.md)
 
 ## Prerequisites
 
