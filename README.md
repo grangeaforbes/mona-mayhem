@@ -6,6 +6,12 @@
 
 A workshop template for building a retro arcade-themed website with Astro that compares GitHub contribution graphs of two users. This is the **starting point** — you'll build the app step by step using GitHub Copilot.
 
+### ✨ Why this workshop is fun
+
+- Ship a playable, themed project instead of just following syntax exercises
+- Practice real Copilot workflows in VS Code or the Copilot CLI
+- Leave with a polished app you can keep extending after the workshop
+
 ![Mona Mayhem Screenshot](https://github.com/user-attachments/assets/5eca79e2-cb9f-4e93-aa0d-23666ebde3b7)
 *What you'll build by the end of the workshop*
 
@@ -35,6 +41,8 @@ The workshop supports two tracks — follow the one that matches your preferred 
    - **VS Code:** clone your repo and open it in VS Code.
    - **GitHub Copilot CLI:** clone your repo locally, install `copilot`, and work from your terminal.
 3. Follow the [workshop guide](workshop/00-overview.md)
+
+Ready to jump in? Start with [Part 00: Overview](workshop/00-overview.md) and pick your track.
 
 ## Prerequisites
 
